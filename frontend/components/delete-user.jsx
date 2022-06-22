@@ -1,11 +1,11 @@
 import React from 'react';
 
-const NavBar = () => {
+function DeleteUser() {
     return (
         <div>
-            navbar
+            delete
         </div>
     );
-};
+}
 
-export default NavBar;
+export default DeleteUser;

@@ -1,11 +1,11 @@
 import React from 'react';
 
-const NavBar = () => {
+function EditUser() {
     return (
         <div>
-            navbar
+            edit
         </div>
     );
-};
+}
 
-export default NavBar;
+export default EditUser;

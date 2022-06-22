@@ -1,11 +1,11 @@
 import React from 'react';
 
-const NavBar = () => {
+function ViewUser() {
     return (
         <div>
-            navbar
+            user
         </div>
     );
-};
+}
 
-export default NavBar;
+export default ViewUser;
