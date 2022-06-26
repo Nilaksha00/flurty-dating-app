@@ -7,4 +7,4 @@ const SaveUser = async ({ fullName, age, email, gender, phone }) => {
   return result;
 };
 
-module.exports = {SaveUser}
+module.exports = { SaveUser };
